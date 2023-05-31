@@ -1,0 +1,17 @@
+1 a)false
+ b)false
+c)true
+d)false
+c)false
+
+
+
+2)
+a)
+create table bike(bike_id varchar(4), brand varchar(20), model varchar(20), price int);
+
+b)alter table bike
+add primary key (bike_id);
+
+c)alter bike
+add registration_date date;
