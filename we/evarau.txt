@@ -15,3 +15,5 @@ add primary key (bike_id);
 
 c)alter bike
 add registration_date date;
+
+kewfoeworew
