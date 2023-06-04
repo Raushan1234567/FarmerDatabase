@@ -19,3 +19,4 @@ add registration_date date;
 day36
 day37
 day38
+day39
